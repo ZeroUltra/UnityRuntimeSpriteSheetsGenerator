@@ -1,5 +1,4 @@
-## UI 动态图集 
-Unity Runtime SpriteSheets Generator
+Unity动态图集 Runtime SpriteSheets Generator
 ====================================
 
 Unity and plugins provide many great ways to build Sprite Sheets. However they're used directly into Unity Editor or with an external software which is perfect in many case, but none provide the ability to generate SpriteSheets at runtime.
